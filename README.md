@@ -60,7 +60,3 @@ Target column:
 - ROC Curve
 
 Random Forest provided the best predictive performance.
-
----
-
-## 📁 Project Structure
