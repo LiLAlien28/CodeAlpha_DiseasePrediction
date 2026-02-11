@@ -5,7 +5,6 @@ This project implements a **Heart Disease Prediction System** using machine lear
 
 This project is completed under the **CodeAlpha Machine Learning Internship**.
 
----
 
 ## 🎯 Objective
 To predict:
