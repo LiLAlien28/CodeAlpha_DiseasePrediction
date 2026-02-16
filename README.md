@@ -57,5 +57,3 @@ Target column:
 - ROC-AUC Score
 - Confusion Matrix
 - ROC Curve
-
-Random Forest provided the best predictive performance.
